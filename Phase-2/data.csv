@@ -1,0 +1,360 @@
+pid,paddress,email,pname
+P000000001,"30479 Brenda Wall Suite 983Matthewtown, MD 89850",jennifermurphy@gaines.com,Disney Worldwide
+P000000002,"0668 Crawford Course Suite 605Carolinemouth, DE 14611",rmorgan@davis-bruce.org,Bloomsbery Publishing
+P000000003,"7986 Moss Track Apt. 154Skinnerport, ID 33405",awilliams@gmail.com,Pierre-Jules Hetzel
+P000000004,"1778 Cole OrchardLake Amandabury, ID 24526",peckmartin@gmail.com,William Heineman
+P000000005,"2630 Katie CourtsSouth Evelynview, UT 22434",victoriajennings@bradley-garcia.com,Chatto & Windus
+P000000006,"506 Evans LakesNew Lisafurt, OH 09182",christopheratkinson@lee-cherry.com,Blue Book Magazine
+P000000007,"010 Lisa ShoreTylerton, ID 51017",julia51@hotmail.com,Harvill Secker
+P000000008,"9132 Carla Mall Apt. 923South Elizabeth, PA 48609",jeremy33@yahoo.com,Penguin Random House LLC.
+P000000010,"136 Guerra LakesStephensonhaven, ND 48619",ypowers@moore.com,Double Day & Company
+P000000011,"4892 Roberts Glens Suite 148Nelsonfort, NH 33991",vcarter@yahoo.com,Kavi Mahesh
+P000000012,"324 King Route Suite 711Lake Lorettamouth, VT 93954",dianegordon@yahoo.com,Techical Publications
+P000000013,"127 John CovesMelissabury, NY 33420",dawngordon@gmail.com,Sudhas Student Friendly Textbooks
+P000000014,"348 Derek ShoresMackborough, GA 11534",deannathomas@hotmail.com,Arihants
+P000000015,"2022 Jonathan MountainCaldwellport, MA 84446",zpeterson@taylor-white.com,Core Engineering Series
+P000000016,"78808 Contreras Crest Suite 661Jacobmouth, ND 21239",alexanderjeffrey@hotmail.com,S. Chand
+P000000017,"183 Summers StreetsKyleland, MO 45247",thompsonjames@dougherty.com,BI Bhatt
+P000000018,"7369 Megan BranchDuncanstad, DC 67900",amy06@gmail.com,Oxford
+P000000019,"58515 Cervantes Corners Apt. 684Elizabethmouth, VA 27201",kristinereynolds@lee.com,VTU
+P000000020,"85086 Justin Tunnel Apt. 768Port Emmashire, AZ 37062",rpeters@richards.com,S. Chand
+P000000021,"284 S. Clinton Road  Osseo, MN 55311",xndz911qkxg@iffymedia.com,Penguin Classics
+P000000022,"284 J. Kennedy Road  Osseo, MN 55311",premium@premium.com,Premium Edition
+P000000023,"284 J. Roosevelt Road  Osseo, NA 55322",lakshmi@lakshmi.com,Lakshmi Publications
+P000000024,"284 J. Clinton Road  Osseo, NV 55311",elmasri@elmasri.com,Elmasri
+fname,minit,lname,au_id,pid_auth,type,genre
+Rick,,Riordan,A000000001,P000000001,Fiction,Fantasy
+J.,K,Rowling,A000000002,P000000002,Fiction,Fantasy
+Jules,,Verne,A000000003,P000000003,Fiction,"Fantasy,Science Fiction"
+H.,G,Wells,A000000004,P000000004,Fiction,Science Fiction
+Aldous,,Huxley,A000000005,P000000005,Fiction,Science Fiction
+Philip,,Wylie,A000000006,P000000006,Fiction,Science Fiction
+George,,Orwell,A000000007,P000000007,Fiction,Science Fiction
+George,R,Stewart,A000000008,P000000008,Fiction,Science Fiction
+Ray,,Bradbury,A000000010,P000000010,Fiction,Science Fiction
+Kavi,,Mahesh,A000000011,P000000011,Educational,
+J,S,Chitode,A000000012,P000000012,Educational,
+Dr.,,KSC,A000000013,P000000013,Educational,
+Gaurav,,Shukla,A000000014,P000000014,Educational,
+B,V,Ramana,A000000015,P000000015,Educational,
+R,S,Khurmi,A000000016,P000000016,Educational,
+J,M,Smith,A000000017,P000000017,Educational,
+J,S,Slater,A000000018,P000000018,Educational,
+S,P,Basavarju,A000000019,P000000019,Educational,
+S,S,Dhara,A000000020,P000000020,Educational,
+Mary,,Shelley,A000000021,P000000021,Fiction,Science Fiction
+Jeremy ,,Pickles,A000000022,P000000022,Educational,""
+Jeraldin,,Ahila,A000000023,P000000023,Educational,""
+Elmasri,,Navathe,A000000024,P000000024,Educational,""
+Lasa,,Ramez,A000000025,P000000021,Educational,""
+book_name,book_id,type,semester,pdate,rating,age_rest,au_id_book,branch_id_book,did_book,pid_book,genre,is_borrowed
+Harry Potter And The Chamber Of Secrets,B000000005,Fiction,,1998-07-02,9.1,9,A000000002,BR00000001,,P000000002,Fantasy,t
+Harry Potter And The Philosophers Stone,B000000006,Fiction,,1997-06-26,9.2,11,A000000002,BR00000001,,P000000002,Fantasy,t
+Harry Potter And The Goblet Of Fire,B000000008,Fiction,,2000-07-08,9.4,5,A000000002,BR00000002,,P000000002,Fantasy,t
+Harry Potter And The Order Of The Phoenix,B000000009,Fiction,,2003-06-21,9.5,5,A000000002,BR00000002,,P000000002,Fantasy,t
+Harry Potter And The Order Of The Phoenix,B000000010,Fiction,,2003-06-21,9.5,5,A000000002,BR00000001,,P000000002,Fantasy,t
+Harry Potter And The Half Blood Prince,B000000011,Fiction,,2005-07-16,9.4,3,A000000002,BR00000001,,P000000002,Fantasy,t
+Harry Potter And The Half Blood Prince,B000000012,Fiction,,2005-07-16,9.4,3,A000000002,BR00000002,,P000000002,Fantasy,t
+A Journey To The Centre Of The Earth,B000000015,Fiction,,1864-07-21,9.3,2,A000000003,BR00000001,,P000000003,"Science Fiction,Fantasy",t
+The War Of The Worlds,B000000016,Fiction,,1898-06-21,9.2,3,A000000004,BR00000001,,P000000004,Science Fiction,t
+The War Of The Worlds,B000000017,Fiction,,1898-06-21,9.2,3,A000000004,BR00000002,,P000000004,Science Fiction,t
+Brave New World,B000000018,Fiction,,1932-04-12,9.3,4,A000000005,BR00000001,,P000000005,Science Fiction,t
+Brave New World,B000000019,Fiction,,1932-04-12,9.3,3,A000000005,BR00000002,,P000000005,Science Fiction,t
+Percy Jackson and The Olympians,B000000025,Fiction,,2010-02-03,8.1,1,A000000001,BR00000003,,P000000001,Fantasy,t
+Harry Potter And The Order Of The Phoenix,B000000026,Fiction,,2003-06-21,9.5,5,A000000002,BR00000003,,P000000002,Fantasy,t
+Harry Potter And The Half Blood Prince,B000000027,Fiction,,2005-07-16,9.4,3,A000000002,BR00000003,,P000000002,Fantasy,t
+Signals and Stochastic Process for JNTU-H,B000000038,Educational,3,1977-01-21,8.5,3,A000000012,BR00000002,ECE0000002,P000000012,,t
+Signals and Stochastic Process for JNTU-H,B000000039,Educational,3,1977-01-21,8.5,3,A000000012,BR00000003,ECE0000003,P000000012,,t
+A Textbook of Engineering Mathematics-III ,B000000040,Educational,3,1987-01-21,8.7,3,A000000013,BR00000001,,P000000013,,t
+A Textbook of Engineering Mathematics-III ,B000000041,Educational,3,1987-01-21,8.7,3,A000000013,BR00000002,,P000000013,,t
+A Textbook of Engineering Mathematics-III ,B000000042,Educational,3,1987-01-21,8.7,3,A000000013,BR00000003,,P000000013,,t
+Handbook Series of Machanical Engineering,B000000043,Educational,4,1994-03-21,8.5,2,A000000014,BR00000001,EME0000001,P000000014,,t
+Handbook Series of Machanical Engineering,B000000044,Educational,4,1994-03-21,8.5,2,A000000014,BR00000002,EME0000002,P000000014,,t
+Theory Of Computation : A Problem Solving Approach,B000000034,Educational,4,1999-01-21,8.9,3,A000000011,BR00000001,CSE0000001,P000000011,,t
+Theory Of Computation : A Problem Solving Approach,B000000035,Educational,4,1999-01-21,8.9,3,A000000011,BR00000002,CSE0000002,P000000011,,t
+Odd John,B000000021,Fiction,,1935-01-12,9.1,2,A000000007,BR00000001,,P000000007,Science Fiction,t
+The Illustrated Man,B000000032,Fiction,,1951-01-21,8.5,2,A000000010,BR00000002,,P000000010,Science Fiction,t
+Nineteen Eighty-Four,B000000022,Fiction,,1949-01-03,8.6,2,A000000007,BR00000001,,P000000007,Science Fiction,t
+Signals and Stochastic Process for JNTU-H,B000000037,Educational,3,1977-01-21,8.5,3,A000000012,BR00000001,ECE0000001,P000000012,,t
+Earth Abides,B000000030,Fiction,,1949-07-21,8.9,3,A000000008,BR00000003,,P000000008,Science Fiction,t
+Applied Maths,B000000071,Educational,3,2015-08-04,3.0,2,A000000022,BR00000002,EME0000002,P000000022,,f
+Advanced Math,B000000074,Educational,,2010-07-04,7.0,3,A000000025,BR00000001,,P000000021,,f
+Harry Potter And The Deathly Hallows,B000000013,Fiction,,2007-07-21,9.3,2,A000000002,BR00000001,,P000000002,Fantasy,f
+Harry Potter And The Deathly Hallows,B000000014,Fiction,,2007-07-21,9.3,2,A000000002,BR00000002,,P000000002,Fantasy,f
+Percy Jackson and The Titans Curse,B000000002,Fiction,,2007-04-01,8.2,3,A000000001,BR00000001,,P000000001,Fantasy,f
+The Illustrated Man,B000000031,Fiction,,1951-01-21,8.5,1,A000000010,BR00000001,,P000000010,Science Fiction,f
+Power System Analysis,B000000072,Educational,5,2013-07-05,4.0,2,A000000023,BR00000002,EEE0000002,P000000023,,f
+Harry Potter And The Prisoner Of Azkaban,B000000007,Fiction,,1999-07-08,9.3,7,A000000002,BR00000001,,P000000002,Fantasy,f
+Frankenstein,B000000075,Fiction,,2014-04-09,9.0,4,A000000021,BR00000001,,P000000021,Science Fiction,f
+Harry Potter And The Deathly Hallows,B000000028,Fiction,,2007-07-21,9.3,2,A000000002,BR00000003,,P000000002,Fantasy,f
+Earth Abides,B000000023,Fiction,,1949-03-02,8.4,5,A000000008,BR00000002,,P000000008,Science Fiction,f
+Earth Abides,B000000029,Fiction,,1949-07-21,8.9,1,A000000008,BR00000002,,P000000008,Science Fiction,f
+Percy Jackson and The Lightning Thief,B000000001,Fiction,,2005-06-01,8.0,4,A000000001,BR00000001,,P000000001,Fantasy,f
+Theory Of Computation : A Problem Solving Approach,B000000036,Educational,4,1999-01-21,8.9,3,A000000011,BR00000003,CSE0000003,P000000011,,t
+Percy Jackson and The Lightning Thief,B000000024,Fiction,,2005-06-01,8.0,4,A000000001,BR00000003,,P000000001,Fantasy,t
+The Illustrated Man,B000000033,Fiction,,1951-01-21,8.5,3,A000000010,BR00000003,,P000000010,Science Fiction,t
+Percy Jackson and The Battle of The Labyrinth,B000000003,Fiction,,2008-05-06,8.5,2,A000000001,BR00000001,,P000000001,Fantasy,t
+Percy Jackson and The Olympians,B000000004,Fiction,,2010-02-03,8.1,1,A000000001,BR00000002,,P000000001,Fantasy,t
+Fundamentals Of Database Systems,B000000073,Educational,4,2012-07-05,5.0,2,A000000024,BR00000001,CSE0000001,P000000024,,t
+Higher Engineering Mathematics,B000000045,Educational,2,1985-03-31,9.0,4,A000000015,BR00000001,,P000000015,,t
+Higher Engineering Mathematics,B000000046,Educational,2,1985-03-31,9.0,4,A000000015,BR00000002,,P000000015,,t
+Higher Engineering Mathematics,B000000047,Educational,2,1985-03-31,9.0,4,A000000015,BR00000003,,P000000015,,t
+Plant Biotechnology,B000000053,Educational,4,1995-03-31,9.2,5,A000000018,BR00000001,BTC0000001,P000000018,,t
+Plant Biotechnology,B000000054,Educational,4,1995-03-31,9.2,5,A000000018,BR00000002,BTC0000002,P000000018,,t
+Plant Biotechnology,B000000055,Educational,4,1995-03-31,9.2,5,A000000018,BR00000003,BTC0000003,P000000018,,t
+Engineering Physics,B000000056,Educational,2,1997-01-31,9.1,6,A000000019,BR00000001,,P000000019,,t
+Engineering Physics,B000000057,Educational,2,1997-01-31,9.1,6,A000000019,BR00000002,,P000000019,,t
+Engineering Chemistry,B000000059,Educational,2,1998-01-31,9.5,6,A000000020,BR00000001,,P000000016,,t
+Engineering Chemistry,B000000060,Educational,2,1998-01-31,9.5,6,A000000020,BR00000002,,P000000016,,t
+Engineering Physics,B000000058,Educational,2,1997-01-31,9.1,6,A000000019,BR00000003,,P000000019,,t
+Civil Engineering,B000000049,Educational,4,1975-03-31,9.0,1,A000000016,BR00000002,CVV0000002,P000000016,,t
+Civil Engineering,B000000050,Educational,4,1975-03-31,9.0,1,A000000016,BR00000003,CVV0000003,P000000016,,t
+Introduction to Chemical Engineering,B000000052,Educational,4,1965-03-31,9.0,1,A000000017,BR00000003,CHC0000003,P000000017,,t
+borrowal_id,due_date,usn_borrows,fid_borrows,book_id_borrows,overdue_fees
+3,2019-12-26,SAA1201700003,,B000000003,
+4,2019-10-17,SAA1201700004,,B000000004,
+6,2019-11-23,SAA1201700006,,B000000006,
+8,2019-11-13,SAA1201700008,,B000000008,
+9,2019-04-28,SAA1201700009,,B000000009,
+10,2019-09-05,SAA1201700010,,B000000010,
+11,2019-08-25,SAA1201700011,,B000000011,
+12,2019-10-18,SAA1201700012,,B000000012,
+13,2019-10-26,SAA1201700013,,B000000013,
+14,2019-09-05,SAA1201700014,,B000000014,
+15,2019-11-09,SAA1201700015,,B000000015,
+16,2019-04-26,SAA1201700016,,B000000016,
+17,2019-11-16,SAA1201700017,,B000000017,
+18,2019-10-28,SAA1201700018,,B000000018,
+19,2019-12-11,SAA1201700019,,B000000019,
+21,2019-08-22,SAA1201800001,,B000000021,
+22,2019-09-24,SAA1201800002,,B000000022,
+72,2019-05-21,,F000000003,B000000037,0
+73,2019-05-21,,F000000003,B000000021,0
+26,2019-05-18,SAA1201800006,,B000000026,
+27,2019-05-11,SAA1201800007,,B000000027,
+71,2019-05-21,SAA1201700001,,B000000024,0
+34,2019-08-05,SAA1201800014,,B000000034,
+35,2019-08-06,SAA1201800015,,B000000035,
+38,2019-05-11,SAA1201800018,,B000000038,
+39,2019-08-09,SAA1201800019,,B000000039,
+40,2019-06-18,SAA1201800020,,B000000040,
+41,2019-10-19,,F000000001,B000000041,
+42,2019-09-01,,F000000002,B000000042,
+43,2019-10-14,,F000000003,B000000043,
+44,2019-05-28,,F000000004,B000000044,
+45,2019-10-22,,F000000005,B000000045,
+46,2019-08-04,,F000000006,B000000046,
+47,2019-07-26,,F000000007,B000000047,
+49,2019-07-16,,F000000009,B000000049,
+50,2019-05-11,,F000000010,B000000050,
+53,2019-09-06,,F000000013,B000000053,
+54,2019-06-27,,F000000014,B000000054,
+55,2019-05-07,,F000000015,B000000055,
+56,2019-10-21,,F000000016,B000000056,
+58,2019-05-15,,F000000018,B000000058,
+59,2019-06-15,,F000000019,B000000059,
+60,2019-08-23,,F000000020,B000000060,
+69,2019-05-21,,F000000008,B000000058,0
+74,2019-05-21,,F000000007,B000000032,0
+76,2019-05-22,,F000000003,B000000073,0
+65,2019-05-20,SAA1201700002,,B000000022,0
+66,2019-05-20,,F000000008,B000000033,0
+67,2019-05-20,,F000000008,B000000030,0
+77,2019-05-23,SAA1201700001,,B000000052,0
+5,2019-04-18,SAA1201700005,,B000000005,50
+25,2019-04-14,SAA1201800005,,B000000025,90
+37,2019-04-15,SAA1201800017,,B000000037,80
+57,2019-04-01,,F000000017,B000000057,220
+70,2019-05-21,SAA1201700001,,B000000036,0
+branch_id,baddress,year_of_setup,locality,bname
+BR00000001,"#1,8th Cross,Sampige Road,Bangalore-560003",1985,Malleshwaram,SAAU
+BR00000002,"#2,7th Cross,Marine Drive,Mumbai-628031",1999,Marine Drive,SAAIT
+BR00000003,"#3,9th Cross,8th Main,Dwarka,New Delhi-110075",2005,Dwarka,SAACS
+did,no_of_students,no_of_sections,branch_id_dept,dname
+CSE0000001,550,8,BR00000001,Computer Science Engineering
+CSE0000002,550,8,BR00000002,Computer Science Engineering
+CSE0000003,550,8,BR00000003,Computer Science Engineering
+ECE0000001,240,4,BR00000001,Electronics and Communications Engineering
+ECE0000002,240,4,BR00000002,Electronics and Communications Engineering
+ECE0000003,240,4,BR00000003,Electronics and Communications Engineering
+EME0000001,240,4,BR00000001,Mechanical Engineering
+EME0000002,240,4,BR00000002,Mechanical Engineering
+EME0000003,240,4,BR00000003,Mechanical Engineering
+EEE0000001,120,2,BR00000001,Electrical And Electronics Engineering
+EEE0000002,120,2,BR00000002,Electrical And Electronics Engineering
+EEE0000003,120,2,BR00000003,Electrical And Electronics Engineering
+CVV0000001,60,1,BR00000001,Civil Engineering
+CVV0000002,60,1,BR00000002,Civil Engineering
+CVV0000003,60,1,BR00000003,Civil Engineering
+BTC0000001,60,1,BR00000001,Biotech Engineering
+BTC0000002,60,1,BR00000002,Biotech Engineering
+BTC0000003,60,1,BR00000003,Biotech Engineering
+CHC0000001,60,1,BR00000001,Chemical Engineering
+CHC0000002,60,1,BR00000002,Chemical Engineering
+CHC0000003,60,1,BR00000003,Chemical Engineering
+fid,fname,minit,lname,age,year_of_join,email,phoneno,address,did_fac,branch_id_fac,password
+F000000001,David,,Mack,58,2003,jeff56@hotmail.com,9319610517,Unit 1877 Box 7880DPO AA 95705,ECE0000002,BR00000002,scBpDf`fX_avK
+F000000002,Dr.,,Tony,63,1995,blairjamie@yahoo.com,9605569190,"2402 Chavez Canyon Apt. 013Lake Shirleytown, CA 70742",EME0000003,BR00000003,HlBqBZwefy
+F000000003,Robert,,Zhang,49,2007,gibsonkaren@clark-roberts.info,9447518899,"194 Wilson OverpassBellside, ID 28303",EEE0000001,BR00000001,Igwk|^
+F000000004,Douglas,,Archer,42,2001,oliviamartin@gmail.com,9172136102,"118 Theodore Greens Apt. 422Lake David, CT 35087",CVV0000002,BR00000002,OBVz[~gVTVrZW
+F000000005,Megan,,Adams,54,2018,keithguerrero@summers-gilmore.com,9254458672,"5653 Hunt Lane Apt. 016East Kimberly, WY 50123",BTC0000003,BR00000003,kAy{S{hIH}B}F
+F000000006,Shelby,,Black,48,2007,smiththeodore@jackson.com,9982208858,"454 Wolf Land Apt. 882East Julieberg, SD 98419",CHC0000001,BR00000001,l[ri`D{nVm
+F000000007,Ashley,,Travis,51,2007,mooresteven@yahoo.com,9225130800,"PSC 8453, Box 1954APO AA 34811",CSE0000002,BR00000002,G^cLOrWbrjDIp
+F000000008,Christine,,Parker,49,1997,hmyers@castaneda.biz,9772669644,"6630 Laura River Suite 845Veronicafurt, MS 46062",ECE0000003,BR00000003,C{l`QGjD`UeQ
+F000000009,Michael,,Murray,43,2002,stephen01@gmail.com,9022935652,"15883 Turner Mountain Suite 013East Suzanne, WI 85134",EME0000001,BR00000001,Ub[zLUkS
+F000000010,Keith,,Nguyen,64,2002,emonroe@alvarado.biz,9266276156,"4847 Peter Squares Apt. 621New Donaldshire, KY 90822",EEE0000002,BR00000002,}WXKeKAnwFzSi
+F000000011,Kevin,,Mason,41,2008,brittany19@hotmail.com,9378672100,"240 Kara Coves Suite 374Port Deborah, RI 37086",CVV0000003,BR00000003,JUlkCsLOBrFn
+F000000012,John,,Cox,48,2004,denisemorgan@smith-ballard.com,9093221649,USS WhitakerFPO AP 14683,BTC0000001,BR00000001,CbW]Fo\|q
+F000000013,Eric,,Phillips,48,2007,gibsonsteven@gray.com,9828896382,"4980 Griffin PathKnightshire, WV 50139",CHC0000002,BR00000002,TlUGV{wwm{P\S
+F000000014,Lisa,,Hinton,42,2012,rodney12@yahoo.com,9974969551,"50047 Munoz UnionsBryanttown, KS 16905",CSE0000003,BR00000003,cnI}xAq^C
+F000000015,Bryan,,Garza,53,2017,margaret47@carpenter.info,9715412709,"88603 Maxwell RidgesNorth Jessica, MT 56897",ECE0000001,BR00000001,YythlT]O
+F000000016,Michael,,Ward,50,2010,bakeralexander@gonzalez.net,9990342486,USNV CooperFPO AP 56349,EME0000002,BR00000002,~^Mie{]]{v
+F000000017,Kevin,,Flores,40,2011,jillbeck@gmail.com,9614660656,"37487 Deleon BurgNorth Billyhaven, ID 62054",EEE0000003,BR00000003,C]dZC|OsJ
+F000000018,Kenneth,,Gross,65,2014,emitchell@merritt.info,9632735398,"40210 Debbie Tunnel Suite 920Brownshire, IA 26311",CVV0000001,BR00000001,uzqf\IHiFh
+F000000019,Jeffrey,,Brown,65,1996,johnsonthomas@gmail.com,9206435577,"72768 Sarah WalksWest Brittanyborough, WA 50556",BTC0000002,BR00000002,AQvgDv~iWS|Ju
+F000000020,Katrina,,Ayers,44,1996,adriennecampos@yahoo.com,9458554420,"1726 Newton DriveNew Allison, KY 53470",CHC0000003,BR00000003,oLq]m]IdCaCT
+F000000021,Joshua,,Marshall,53,2008,joneslori@lopez.com,9559247203,"0709 Bailey Ports Suite 129Washingtonchester, AL 06588",CSE0000001,BR00000001,P\Qu^FwdC]R
+F000000022,Tony,,Cowan,57,2017,katherinemiller@gmail.com,9465399889,"774 Ryan PlazaNorth William, VT 85723",ECE0000002,BR00000002,px_L~MGF
+F000000023,Kelly,,Hooper,51,2014,heather80@smith.info,9736812631,"41638 Robert Stravenue Apt. 288Sherylhaven, KY 96999",EME0000003,BR00000003,^_h}VE|iq`n
+F000000024,Jason,,Reed,45,2013,smiller@yahoo.com,9882979939,"629 Anthony JunctionSouth John, WI 34928",EEE0000001,BR00000001,TWpDoOQpBPvaL
+F000000025,Matthew,,Moses,70,2015,gpittman@hill.com,9889200715,"927 Mary CovesNorth Richard, DE 30757",CVV0000002,BR00000002,uHMjpjZ_A[
+F000000026,Matthew,,Carter,50,1998,currymelanie@allen.org,9750879488,"648 Robles CrossingKathrynview, IL 78236",BTC0000003,BR00000003,ksfbvll{AN^C
+F000000027,Hunter,,Luna,50,2016,whitetroy@allen.org,9621775905,"PSC 4467, Box 8007APO AE 97934",CHC0000001,BR00000001,AQWzYAUcVhjJd
+F000000028,Sandra,,Boyd,68,2000,carlostorres@obrien.com,9706484569,"71799 Nguyen Flats Apt. 523Riveramouth, SC 25861",CSE0000002,BR00000002,LaqezBPHDm{e}U
+F000000029,Ryan,,Galloway,51,2015,david09@yahoo.com,9130354795,"85777 Miller PointsWest Paul, VT 92936",ECE0000003,BR00000003,LUITf^CSQ
+F000000030,Katelyn,,Gilbert,70,2017,joshuabailey@hotmail.com,9188974010,"45931 Dawn ViaductBoydborough, MT 37482",EME0000001,BR00000001,NReLyh~WE{
+F000000031,Heather,,Daniels,44,2017,andersonmegan@hotmail.com,9741248454,"2075 Evans Lake Apt. 264Ballmouth, ND 07269",EEE0000002,BR00000002,R~]wfeOkSA^
+F000000032,Terry,,Holder,43,2008,anita10@hotmail.com,9233682872,"2905 Amber ParkRossside, CO 09984",CVV0000003,BR00000003,XxGgCM]vzLjvk
+F000000033,Andrew,,Thomas,55,2007,hmccoy@white.com,9041142161,"969 Foster Square Suite 809South Michelle, SD 06845",BTC0000001,BR00000001,VMlFQYpc
+F000000034,Kelly,,Mueller,62,2005,amanda41@phillips-george.com,9956858641,"0474 Campbell WalksMatthewborough, NE 05206",CHC0000002,BR00000002,_E}kv~ye
+F000000035,Natalie,,Anderson,47,2003,leeryan@roberson.com,9319463674,"402 Duke Port Apt. 547North Reginaldchester, NM 07886",CSE0000003,BR00000003,tvR^b[drUSeP
+F000000036,Katrina,,Strong,50,1996,charlesanderson@hotmail.com,9320812131,"18942 Schneider Forest Suite 956Port Kevin, SD 23574",ECE0000001,BR00000001,um]uWPYhGG
+F000000037,Kimberly,,Santos,41,2009,mccarthybrett@yahoo.com,9963696839,"585 George Stream Suite 117Joneston, MT 13661",EME0000002,BR00000002,^rAuC|oTCp_P
+F000000038,Laura,,Walker,46,2013,lindavillegas@yahoo.com,9650420162,"1026 Samuel MeadowsNorth Larryburgh, KY 60057",EEE0000003,BR00000003,zf`hP\iYPESLp
+F000000039,Kenneth,,Charles,40,2003,patricia11@gmail.com,9117487042,"7706 Rebecca Locks Suite 256North Kelseyport, NV 01297",CVV0000001,BR00000001,NBMZZVfwr|
+F000000040,Kimberly,,Washington,59,2010,lsawyer@archer.com,9737317870,"76171 Michael Extensions Suite 807Rodriguezhaven, AK 78495",BTC0000002,BR00000002,hhmRiYFvfk`M
+F000000041,Adam,,George,52,2005,carlos91@franklin.org,9865319442,"471 Taylor ClubNorth Kellytown, WA 10981",CHC0000003,BR00000003,^XBXDNCK[L
+F000000042,Cheryl,,Snow,51,2004,justin63@olson.org,9853719954,"63951 Bell CenterThomasmouth, VA 99554",CSE0000001,BR00000001,brpOBGey~b\b|
+F000000043,Jacqueline,,Griffith,45,2003,john97@gmail.com,9242259991,Unit 6523 Box 1124DPO AA 60167,ECE0000002,BR00000002,_wog\\uYJ[~UFF
+F000000044,Stacy,,Wiley,65,1999,gina73@gmail.com,9792099443,"3899 Miller PinesLake Danielchester, MN 90133",EME0000003,BR00000003,giC^Zu`Wb
+F000000045,Michelle,,Berry,42,2017,cynthialewis@carter.biz,9290124051,"462 Angela PlazaCrystalmouth, VA 27634",EEE0000001,BR00000001,hnHAoU[}V
+F000000046,Nicole,,Davis,45,1997,roger28@gmail.com,9375008200,"812 Smith LodgeRubentown, WI 31790",CVV0000002,BR00000002,yKPlUugF{
+F000000047,John,,Schmidt,50,2007,ocantu@bates-miller.com,9713754299,"62321 Mitchell Run Apt. 154West Stevenmouth, WA 89685",BTC0000003,BR00000003,S]^AXZqMV~`}}
+F000000048,Tracey,,Williams,49,2015,daleramirez@hotmail.com,9250217581,"24153 Foster Gateway Suite 776New Amy, GA 06886",CHC0000001,BR00000001,SDowofQhLvOV
+F000000049,Lauren,,Williams,65,2012,kristensmith@gmail.com,9413950591,"30448 Austin Plaza Apt. 976Lindseyview, OH 35353",CSE0000002,BR00000002,SxwfODEzF
+F000000050,Christopher,,Lopez,56,1996,linedward@hotmail.com,9089566114,"7105 Cannon Mountain Apt. 049West Katie, VA 99473",ECE0000003,BR00000003,]Kea^\Fph
+F000000051,Ronald,,Hunt,56,2013,xbrowning@hotmail.com,9638998955,"56755 Richard Underpass Apt. 413North Justintown, CA 40576",EME0000001,BR00000001,\nL~kPfF
+F000000052,Walter,,Malone,42,2016,john79@phillips.com,9212850787,"0267 Elizabeth Branch Suite 592West Brianville, WV 76981",EEE0000002,BR00000002,ygPflcIM_df
+F000000053,Alan,,Anderson,61,2008,stephen82@yahoo.com,9406479268,"5700 Jacqueline Loaf Apt. 029North David, UT 89895",CVV0000003,BR00000003,DBzJcrZ\E
+F000000054,Daniel,,Russo,53,1998,ghendrix@hotmail.com,9071871799,"18190 Gail ParkwaysLake Bethside, VT 29111",BTC0000001,BR00000001,]c_Hu_{
+F000000055,Terri,,Blair,68,2008,murraylisa@wilson-baldwin.com,9962016882,"3533 Christopher ShoresWest Kellymouth, KY 59014",CHC0000002,BR00000002,DyHkAlJ
+F000000056,Teresa,,Scott,50,2005,xparks@gmail.com,9891185434,"862 Katie Courts Apt. 384Yoderville, IN 42888",CSE0000003,BR00000003,Vq~mmi`lQ
+F000000057,Abigail,,Johnson,43,2017,johnsonsamuel@yahoo.com,9859396582,"193 Chen LodgeJohnsonland, PA 85085",ECE0000001,BR00000001,~sJbT`bHZi
+F000000058,Tonya,,Smith,44,2013,petersentabitha@gmail.com,9192362517,"94758 Ray MountainEast Nathanmouth, TN 87798",EME0000002,BR00000002,GjcKudmnn
+F000000059,Robert,,Mann,63,1998,stephensalazar@watts-porter.biz,9338561507,"6915 Vanessa ManorsPort Jessica, VA 34988",EEE0000003,BR00000003,FUqjQhzMx
+F000000060,Amanda,,Allen,58,2001,michelle68@hoffman-alexander.biz,9449924449,"563 Jessica Lodge Apt. 952Gallagherview, IN 10896",CVV0000001,BR00000001,qnUrYif[UH
+F000000061,Anthony,,Houston,47,2012,patrickhernandez@ryan.biz,9358197615,"17597 Peter RapidsFieldsland, LA 27976",BTC0000002,BR00000002,CaMpnWk\sgJ]ys
+F000000062,Lori,,King,43,2004,hawkinslisa@hotmail.com,9877548881,"9908 Dana IslandsWest Joelfurt, AR 84802",CHC0000003,BR00000003,[oFFYR^
+F000000063,Matthew,,Valencia,57,2005,howardleslie@yahoo.com,9811069128,"5743 Alvin Lake Apt. 363Natalietown, WY 45375",CSE0000001,BR00000001,[EfItHJ}
+F000000064,Ruben,,Yu,47,1995,acarter@ross.org,9391712647,"814 Powell Islands Suite 160South Brandi, OK 63995",ECE0000002,BR00000002,xsOk{Nyd~I
+F000000065,Dustin,,Hamilton,56,2002,alex42@gmail.com,9100961564,"57002 Hill Centers Apt. 017Ruizchester, MN 40061",EME0000003,BR00000003,XauwNPXNh~
+F000000066,Brenda,,Kim,52,2006,jessicatran@harris-ross.com,9806327743,"22108 Timothy NeckNew Angela, LA 88131",EEE0000001,BR00000001,KaPqSWPYzrU_e
+F000000067,Julie,,Roberts,62,2008,smithmolly@yahoo.com,9334144525,"3219 Kenneth CoveMooremouth, AK 82266",CVV0000002,BR00000002,]wLuK^]ChTmhY
+F000000068,Marissa,,Ellis,44,2002,steven71@marks.net,9644628954,"33540 House Inlet Apt. 302North Jorgeborough, ND 95447",BTC0000003,BR00000003,jZ~tIShTgoC
+F000000069,Laurie,,Pierce,46,2014,ruth44@hotmail.com,9329063285,"267 Davis Cove Apt. 400North Alexburgh, NV 05798",CHC0000001,BR00000001,}M{{X[Jr{_GiS
+F000000070,Mark,,Parker,42,2007,michael34@jones.com,9379509880,Unit 5802 Box 1975DPO AE 70281,CSE0000002,BR00000002,PnGqFpjfnaes
+pid,paddress,email,pname
+P000000001,"30479 Brenda Wall Suite 983Matthewtown, MD 89850",jennifermurphy@gaines.com,Disney Worldwide
+P000000002,"0668 Crawford Course Suite 605Carolinemouth, DE 14611",rmorgan@davis-bruce.org,Bloomsbery Publishing
+P000000003,"7986 Moss Track Apt. 154Skinnerport, ID 33405",awilliams@gmail.com,Pierre-Jules Hetzel
+P000000004,"1778 Cole OrchardLake Amandabury, ID 24526",peckmartin@gmail.com,William Heineman
+P000000005,"2630 Katie CourtsSouth Evelynview, UT 22434",victoriajennings@bradley-garcia.com,Chatto & Windus
+P000000006,"506 Evans LakesNew Lisafurt, OH 09182",christopheratkinson@lee-cherry.com,Blue Book Magazine
+P000000007,"010 Lisa ShoreTylerton, ID 51017",julia51@hotmail.com,Harvill Secker
+P000000008,"9132 Carla Mall Apt. 923South Elizabeth, PA 48609",jeremy33@yahoo.com,Penguin Random House LLC.
+P000000010,"136 Guerra LakesStephensonhaven, ND 48619",ypowers@moore.com,Double Day & Company
+P000000011,"4892 Roberts Glens Suite 148Nelsonfort, NH 33991",vcarter@yahoo.com,Kavi Mahesh
+P000000012,"324 King Route Suite 711Lake Lorettamouth, VT 93954",dianegordon@yahoo.com,Techical Publications
+P000000013,"127 John CovesMelissabury, NY 33420",dawngordon@gmail.com,Sudhas Student Friendly Textbooks
+P000000014,"348 Derek ShoresMackborough, GA 11534",deannathomas@hotmail.com,Arihants
+P000000015,"2022 Jonathan MountainCaldwellport, MA 84446",zpeterson@taylor-white.com,Core Engineering Series
+P000000016,"78808 Contreras Crest Suite 661Jacobmouth, ND 21239",alexanderjeffrey@hotmail.com,S. Chand
+P000000017,"183 Summers StreetsKyleland, MO 45247",thompsonjames@dougherty.com,BI Bhatt
+P000000018,"7369 Megan BranchDuncanstad, DC 67900",amy06@gmail.com,Oxford
+P000000019,"58515 Cervantes Corners Apt. 684Elizabethmouth, VA 27201",kristinereynolds@lee.com,VTU
+P000000020,"85086 Justin Tunnel Apt. 768Port Emmashire, AZ 37062",rpeters@richards.com,S. Chand
+P000000021,"284 S. Clinton Road  Osseo, MN 55311",xndz911qkxg@iffymedia.com,Penguin Classics
+P000000022,"284 J. Kennedy Road  Osseo, MN 55311",premium@premium.com,Premium Edition
+P000000023,"284 J. Roosevelt Road  Osseo, NA 55322",lakshmi@lakshmi.com,Lakshmi Publications
+P000000024,"284 J. Clinton Road  Osseo, NV 55311",elmasri@elmasri.com,Elmasri
+fname,minit,lname,usn,semester,dob,twelfth_percent,cgpa,email,phone_no,did_stud,branch_id_stud,password
+Paul,,Holder,SAA1201800001,2,2000-11-26,91.00,8.85,iponce@yahoo.com,9645582327,CSE0000001,BR00000001,t~tsWzLIrJhQ
+Timothy,,Tanner,SAA1201800002,2,2000-03-19,94.80,9.91,smithjoseph@johnston-buck.org,9350728358,ECE0000002,BR00000002,HeLFy|eRBQH
+Jeanette,,Turner,SAA1201800003,2,2000-04-18,93.10,9.54,gonzalezronald@henderson-smith.com,9200106316,EME0000003,BR00000003,pBFCpblE
+Ronald,,Moody,SAA1201800004,2,2000-06-16,89.50,9.88,moorejessica@gmail.com,9811334941,EEE0000001,BR00000001,PiIjB|h~VK
+Kenneth,,Pratt,SAA1201800005,2,2000-02-15,84.70,7.85,linda57@peters.net,9909650648,CVV0000002,BR00000002,kwAmjSSO
+Timothy,,Fuentes,SAA1201800006,2,2000-01-27,98.00,8.61,stuart44@dean-smith.com,9159090567,BTC0000003,BR00000003,~XXsoaUY
+Corey,,Morton,SAA1201800007,2,2000-02-25,95.60,9.19,stephanie39@young.biz,9583881349,CHC0000001,BR00000001,rU^ADVTqgyNs
+Stephen,,Sosa,SAA1201800008,2,2000-08-11,99.80,8.81,andrewthompson@park.com,9202604663,CSE0000002,BR00000002,Jr}B~[nI
+James,,Harris,SAA1201800009,2,2000-08-25,89.10,8.23,valeriemurray@gmail.com,9032628458,ECE0000003,BR00000003,_aLO{HIid`zLxQ
+Carl,,Moore,SAA1201800010,2,2000-01-01,97.80,8.70,qswanson@gordon.com,9860045641,EME0000001,BR00000001,askf[Xo]
+Karen,,Rogers,SAA1201800011,2,2000-04-21,86.60,8.12,kathryn15@hotmail.com,9595931217,EEE0000002,BR00000002,FRIkjLh}
+Melinda,,Jimenez,SAA1201800012,2,2000-10-08,82.10,7.76,kingrenee@gmail.com,9556796700,CVV0000003,BR00000003,WoZRBzQnhg
+Joseph,,Taylor,SAA1201800013,2,2000-03-18,85.80,9.75,duncankevin@yahoo.com,9113469524,BTC0000001,BR00000001,WqaTkgtr]~
+Elizabeth,,Branch,SAA1201800014,2,2000-04-01,96.60,8.90,christinarussell@yahoo.com,9920496740,CHC0000002,BR00000002,OP}bEJ|ntA
+Jamie,,Martin,SAA1201800015,2,2000-08-15,87.00,9.33,susanparsons@yahoo.com,9590086118,CSE0000003,BR00000003,bvgloWv}rqnj
+Mr.,,Justin,SAA1201800016,2,2000-06-18,89.10,7.64,Strickland,9456341612,ECE0000001,BR00000001,iGZ_eUcPvH
+Megan,,Reed,SAA1201800017,2,2000-02-04,85.70,8.21,rebeccadonaldson@newman.com,9923671658,EME0000002,BR00000002,N`tgQKgWI}
+Stephanie,,Rice,SAA1201800018,2,2000-09-11,96.80,9.93,adamfarmer@stokes-mccall.com,9478453878,EEE0000003,BR00000003,RtSrCehevNVg
+Emily,,Gonzalez,SAA1201800019,2,2000-12-24,86.70,9.75,pwatson@hotmail.com,9978613715,CVV0000001,BR00000001,Q~yoksNwYt
+Brian,,Wells,SAA1201800020,2,2000-03-21,81.90,8.67,nmeyers@vargas-williams.org,9442932070,BTC0000002,BR00000002,PCiTIKb]DAAV
+Brandon,,Hayes,SAA1201800021,2,2000-09-12,91.60,8.99,davidrojas@wilson.com,9801433796,CHC0000003,BR00000003,[Q|Pn\P
+Jessica,,Cameron,SAA1201800022,2,2000-02-19,81.30,8.85,randy99@wilson-williams.com,9438812417,CSE0000001,BR00000001,I\o|ftjs
+Valerie,,Garcia,SAA1201800023,2,2000-10-15,97.30,7.94,wwalter@reed.com,9091465566,ECE0000002,BR00000002,VH^Mq|R]cd
+Michael,,Rodriguez,SAA1201800024,2,2000-12-15,92.30,9.50,erica78@hall.com,9797783874,EME0000003,BR00000003,QA{OyIqjjFOot
+Vincent,,Parks,SAA1201800025,2,2000-10-18,95.00,7.78,jessecunningham@gmail.com,9606385943,EEE0000001,BR00000001,}WJ}EyIj[
+Lucas,,Sanchez,SAA1201800026,2,2000-07-23,91.60,8.04,ramosjustin@mccarthy.com,9737078683,CVV0000002,BR00000002,zEgArsnb
+Lauren,,Bryant,SAA1201800027,2,2000-11-27,96.30,7.62,joyce67@chase.info,9158777610,BTC0000003,BR00000003,uSBg|C\hMR[W
+Jamie,,Burton,SAA1201800028,2,2000-11-02,98.60,9.88,deanna61@newman.com,9654862775,CHC0000001,BR00000001,oKv{K]kS
+Christine,,Lopez,SAA1201800029,2,2000-11-03,87.20,8.18,mgarcia@morgan.org,9425602155,CSE0000002,BR00000002,ZJDMqvCeZC|
+Christine,,Nguyen,SAA1201800030,2,2000-02-23,80.10,9.65,williamsbetty@yahoo.com,9933529298,ECE0000003,BR00000003,nqhxRQ\Sj
+Michael,,Ho,SAA1201800031,2,2000-08-22,93.50,9.85,robertsamanda@morgan.org,9945703764,EME0000001,BR00000001,WTGkLIpyrC
+Rhonda,,Perez,SAA1201800032,2,2000-09-12,99.50,7.79,danielleoconnor@gmail.com,9904425955,EEE0000002,BR00000002,P~IrjkBYx
+Christine,,White,SAA1201800033,2,2000-11-14,92.70,8.84,carneyjonathan@murphy-hatfield.com,9453384803,CVV0000003,BR00000003,Zutgm`qftPRLb
+Lauren,,Stanley,SAA1201800034,2,2000-09-01,89.80,8.58,jeffrey29@gmail.com,9317770694,BTC0000001,BR00000001,POIsZg]x\\v
+Jason,,Salazar,SAA1201800035,2,2000-09-10,81.00,7.64,mdoyle@gmail.com,9547999862,CHC0000002,BR00000002,xsG]y[{YRwKG]
+Jeremiah,,Nelson,SAA1201700001,2,1999-04-11,96.60,8.88,ghale@stevens.biz,9115981244,CSE0000003,BR00000003,EFPnhSsUzGe
+Sharon,,Gaines,SAA1201700002,2,1999-07-02,81.60,8.08,calvin49@wood.com,9593708695,ECE0000001,BR00000001,QzPBgQyo
+Brian,,Hart,SAA1201700003,2,1999-11-18,84.00,9.59,aaronhernandez@hotmail.com,9976899611,EME0000002,BR00000002,AozLA\rXgV~f
+Kara,,Roberts,SAA1201700004,2,1999-03-21,89.90,9.00,littlecurtis@gmail.com,9621511171,EEE0000003,BR00000003,[e]fDhi~N
+Nathan,,Gillespie,SAA1201700005,2,1999-05-03,97.00,8.24,williamsashley@thompson.biz,9391729589,CVV0000001,BR00000001,iln{AtwwE]H
+Jonathan,,Williams,SAA1201700006,2,1999-02-20,88.20,8.27,barbara32@gmail.com,9193296657,BTC0000002,BR00000002,UeNSQPdfj^v
+Anthony,,Young,SAA1201700007,2,1999-12-08,90.70,8.45,bensonkaren@yahoo.com,9870986739,CHC0000003,BR00000003,Bew[TmiJ
+Daniel,,Sherman,SAA1201700008,2,1999-02-09,88.70,8.98,melinda44@hotmail.com,9494094314,CSE0000001,BR00000001,gKj[}rXm]
+Billy,,Torres,SAA1201700009,2,1999-09-18,88.30,7.55,daviddickson@george.com,9538275412,ECE0000002,BR00000002,YSDuKgAnV_cxRD
+Steven,,Graham,SAA1201700010,2,1999-04-04,94.10,9.22,kimlopez@hotmail.com,9426660454,EME0000003,BR00000003,dO^yoFL~xo]
+Tom,,Barr,SAA1201700011,2,1999-06-12,82.40,9.99,jonward@gmail.com,9220458703,EEE0000001,BR00000001,vB^cUOUDzx`Cid
+Hector,,Andersen,SAA1201700012,2,1999-06-22,97.20,9.87,devin32@brown-caldwell.com,9263491141,CVV0000002,BR00000002,YkGVf\S[Mdojz
+Megan,,Graves,SAA1201700013,2,1999-04-24,82.20,7.68,mike15@robinson.com,9414618735,BTC0000003,BR00000003,TQESVtxNIY
+James,,Newton,SAA1201700014,2,1999-04-14,86.90,8.21,paulmanning@gmail.com,9498549897,CHC0000001,BR00000001,QBXJ[KtZmJ
+Jennifer,,Vaughan,SAA1201700015,2,1999-07-12,84.90,9.17,tmason@ruiz.com,9676483638,CSE0000002,BR00000002,dWMXP]Dr
+Michael,,Webb,SAA1201700016,2,1999-01-25,97.70,9.51,jmoses@thompson.com,9949480105,ECE0000003,BR00000003,u}H|OsSZu
+Brian,,Hudson,SAA1201700017,2,1999-08-18,85.90,8.79,btaylor@gmail.com,9303231233,EME0000001,BR00000001,ytHHqQmj[XN
+Joy,,Smith,SAA1201700018,2,1999-04-23,81.50,9.77,katie74@anthony.org,9726120845,EEE0000002,BR00000002,InfqHM}i
+Bonnie,,Brown,SAA1201700019,2,1999-02-03,90.20,8.15,pharris@gibson-bennett.com,9048935917,CVV0000003,BR00000003,hoJfigLaRx
+Darius,,Nelson,SAA1201700020,2,1999-04-15,91.40,8.26,xwilliams@gmail.com,9341320964,BTC0000001,BR00000001,\jxgegavYoTKBe
+Donald,,Miller,SAA1201700021,2,1999-11-23,91.40,7.85,biancaarroyo@gmail.com,9441281055,CHC0000002,BR00000002,[L\J`dhFvYaAW
+Samantha,,King,SAA1201700022,2,1999-06-02,83.60,9.70,billyfinley@yahoo.com,9443818508,CSE0000003,BR00000003,cNcup[sH~
+Melissa,,Jordan,SAA1201700023,2,1999-08-01,96.90,8.93,joshuaallen@hotmail.com,9531214510,ECE0000001,BR00000001,^ayLKaeqjh~w
+Michael,,Garrett,SAA1201700024,2,1999-05-25,86.00,8.37,carolharris@yahoo.com,9403340108,EME0000002,BR00000002,ZeT|`huTx}
+Wendy,,James,SAA1201700025,2,1999-10-12,85.30,8.16,hbranch@gmail.com,9948813966,EEE0000003,BR00000003,cmLyiDOLE
+Donna,,Clark,SAA1201700026,2,1999-05-22,98.80,7.95,alanmatthews@flores.com,9082719066,CVV0000001,BR00000001,LXjX~QrPLBhn]
+Natasha,,Martin,SAA1201700027,2,1999-07-25,96.60,7.51,brenda37@hotmail.com,9903706091,BTC0000002,BR00000002,TJrsRN]isa\qD
+Michael,,Meyer,SAA1201700028,2,1999-05-10,88.40,7.76,ann76@anderson-howard.org,9135556191,CHC0000003,BR00000003,~GarfA[YgUl|vG
+Kathryn,,Wilson,SAA1201700029,2,1999-04-16,98.20,8.69,matthewross@hotmail.com,9922827766,CSE0000001,BR00000001,qNYXJXNNSScE|
+Paul,,Mcbride,SAA1201700030,2,1999-09-10,96.30,7.86,thomas22@watkins-turner.biz,9706273327,ECE0000002,BR00000002,Q]dB[DtK^
+Tami,,Cain,SAA1201700031,2,1999-01-15,88.30,8.27,burgessangela@davis.com,9765733419,EME0000003,BR00000003,{B]hrMYw~GU
+Ashley,,Gutierrez,SAA1201700032,2,1999-05-03,96.50,8.37,DDS,9427282403,EEE0000001,BR00000001,ziN}PZW[M
+Zachary,,Mathis,SAA1201700033,2,1999-09-18,87.90,9.50,christopher29@gillespie.info,9730112564,CVV0000002,BR00000002,lOmtPwVI
+William,,Flynn,SAA1201700034,2,1999-10-11,85.40,9.72,uclark@guzman.com,9670404415,BTC0000003,BR00000003,ZKpNrpxis
+Stephanie,,Black,SAA1201700035,2,1999-09-16,83.50,7.77,patriciaeaton@yahoo.com,9002454096,CHC0000001,BR00000001,kGjNeXo}PbGSNT
