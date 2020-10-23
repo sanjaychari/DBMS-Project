@@ -4,9 +4,9 @@ Title :
 University Library Database Management System
 
 Team Members :
-Sanjay Chari      PES1201700278 ;
-Athul Sandosh     PES1201701110 ;
-Aditya Shankaran  PES1201700710 ;
+Sanjay Chari,
+Athul Sandosh,
+Aditya Shankaran
 
 Phase 1:
 The required documents for Phase 1 can be found in the Phase-1 folder.
